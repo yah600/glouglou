@@ -1,0 +1,19 @@
+{
+  "amenity management": "Gestion des Commodités",
+  "add new amenity": "Ajouter une nouvelle commodité",
+  "manage book amenities": "Gérer et réserver les commodités et ressources des espaces communs pour les résidents.",
+  "amenities managed here": "Toutes les commodités des espaces communs et leurs plannings de réservation seront gérés ici.",
+  "add first amenity": "Ajouter la première commodité.",
+  "booking required": "Réservation requise",
+  "book": "Réserver",
+  "available": "Disponible",
+  "under maintenance": "En maintenance",
+  "closed": "Fermé",
+  "gym": "Salle de sport",
+  "pool": "Piscine",
+  "party room": "Salle de fête",
+  "meeting room": "Salle de réunion",
+  "rooftop terrace": "Terrasse sur le toit",
+  "add new amenity action": "Action d'ajout de nouvelle commodité déclenchée.",
+  "view book amenity action": "Action de voir/réserver la commodité déclenchée pour {{amenity}}."
+}

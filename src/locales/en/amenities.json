@@ -1,0 +1,19 @@
+{
+  "amenity management": "Amenity Management",
+  "add new amenity": "Add New Amenity",
+  "manage book amenities": "Manage and book common area amenities and resources for residents.",
+  "amenities managed here": "All common area amenities and their booking schedules will be managed here.",
+  "add first amenity": "Add your first amenity.",
+  "booking required": "Booking Required",
+  "book": "Book",
+  "available": "Available",
+  "under maintenance": "Under Maintenance",
+  "closed": "Closed",
+  "gym": "Gym",
+  "pool": "Pool",
+  "party room": "Party Room",
+  "meeting room": "Meeting Room",
+  "rooftop terrace": "Rooftop Terrace",
+  "add new amenity action": "Add new amenity action triggered.",
+  "view book amenity action": "View/Book amenity action triggered for {{amenity}}."
+}
